@@ -11,5 +11,7 @@ public class Calc {
         int b = sc.nextInt();
 
         System.out.println("Addition: " + (a + b));
+        System.out.println("Multiplication: " + (a * b));
+        
     }
 }
